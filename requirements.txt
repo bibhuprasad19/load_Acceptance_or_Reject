@@ -1,4 +1,4 @@
-  
+scikit-learn  
 Flask
 Jinja2
 numpy
@@ -6,3 +6,5 @@ scikit-learn
 scipy
 virtualenv
 gunicorn
+pandas
+seaborn
