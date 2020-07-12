@@ -1,1 +1,1 @@
-web:gunicorn load_prediction:app
+web: gunicorn load_prediction:app
