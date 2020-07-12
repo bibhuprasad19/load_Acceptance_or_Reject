@@ -52,5 +52,5 @@ def predict():
 
 
 if __name__ == "__main__":
-    app.listen(process.env.PORT || 5000)
-    app.run()
+    app.listen(process.env.PORT,'0.0.0.0')
+    app.run(debug=TRUE)
