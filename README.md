@@ -5,8 +5,6 @@ This was my first complete project which taught me a lot during the journey. As 
 The project is basically done to make a web-app which will tell the candidates whether their loan application is likely to be accepted or rejected on the basis of the information they give.
 The entire model was build on Google Colab  and flask was used for web-app.
 
-The final part looks something like this-
-
 
 
 
